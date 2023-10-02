@@ -1,5 +1,3 @@
-# sp@m the sp@mers
-
 People or companies that spamm **way too aggressivley**
 
 | name | tel | email | details
